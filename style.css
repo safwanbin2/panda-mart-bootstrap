@@ -1,0 +1,15 @@
+.cta{
+    background-image: linear-gradient(135deg, crimson, rgb(241, 76, 109));
+    text-decoration: none;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.carousel-item{
+    background-color: #ffe4f1;
+}
+.contact{
+    background-color: #ffe4f1;
+    height: 50vh;
+}
